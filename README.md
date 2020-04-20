@@ -1,5 +1,5 @@
 # euptfv2
-** Codes for the updated European hydraulic pedotransfer functions (euptfv2)**
+**Codes for the updated European hydraulic pedotransfer functions (euptfv2)**
 
 This repository includes the R scripts used to derive the updated European prediction algorithms to compute soil hydraulic parameters from easily available soil properties, aka pedotransfer functions (PTFs). The new algorithms, based on random forests (RF), lead to significantly better predictions and provide built-in prediction uncertainty computation. The influence of predictor variables on predicted soil hydraulic properties is explored.
 A website (https://ptfinterface.rissac.hu) facilitates easy application of the updated prediction algorithms.
