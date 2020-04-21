@@ -15,6 +15,8 @@ The suggested_PTFs folder includes:
 - the list of suggested PTFs by predictor variables is included (list_of_final_PTFs.xlsx) and
 - final PTFs (random forest algorithms) by predicted soil hydraulic parameters are available in RData format.
 
+Recommendation of PTFs for a given set of predictor variables was based on the performance of euptfv2 on the test sets. If there was no significant difference in performance, the PTF derived from the largest population was selected.
+
 The help folder contains a sample input dataset (data_sample.csv) and an R script (apply_PTFs_script.R) which shows some examples on how to apply the PTFs in R. 
 
 *Please cite as:*
