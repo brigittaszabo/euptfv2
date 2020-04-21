@@ -11,10 +11,11 @@ For each point or parameter PTF, the workflow is to run the R scripts in the fol
 4. testRF.R: 				compute performance of the final random forest on the test set.
 The above scripts are included separately for point and parameter estimations.
 
-Under the suggested_PTFs folder:
+The suggested_PTFs folder includes:
 - the list of suggested PTFs by predictor variables is included (list_of_final_PTFs.xlsx) and
 - final PTFs (random forest algorithms) by predicted soil hydraulic parameters are available in RData format.
 
+The help folder contains a sample input dataset (data_sample.csv) and an R script (apply_PTFs_script.R) which shows some examples on how to apply the PTFs in R. 
 
 *Please cite as:*
 
