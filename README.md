@@ -22,5 +22,5 @@ The [help](https://github.com/TothSzaboBrigitta/euptfv2/tree/master/help) folder
 
 ***Please cite as:***
 
-Szabó, B., Weynants, M. and Weber, T. K. D. (2020) Updated European hydraulic pedotransfer functions with communicated uncertainties in the predicted variables (euptfv2). Submitted to Geoscientific Model Development.
+Szabó, B., Weynants, M. and Weber, T. K. D. (2020) Updated European hydraulic pedotransfer functions with communicated uncertainties in the predicted variables (euptfv2). Geoscientific Model Development, 2020, 1–33. doi: 10.5194/gmd-2020-36.
 
