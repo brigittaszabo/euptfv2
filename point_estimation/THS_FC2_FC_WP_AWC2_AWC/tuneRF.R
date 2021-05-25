@@ -69,7 +69,7 @@ for (j in 1:nvar) {
                                   tuneGrid = rfGrid,
                                   verbose = TRUE,
                                   num.trees = 200,
-                                  num.threads = (detectCores()-4))
+                                  num.threads = (detectCores()-1))
             
             
             # remove unused variables
